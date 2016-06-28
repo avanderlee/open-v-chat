@@ -1,0 +1,33 @@
+What's new in v1.2p:
+New Features:
+- sound facility (online, offline, new message, buzz). Currently available for internet explorer and firefox.
+- Enable drag and drop facility to move user to another group (doesn't work on firefox)
+- Now it support a public conference in a public room (currently not available to create your own room)
+- New message with an animate blink window
+- New funny emoticon :)
+- You can put enter in the textarea by pressing shift+enter
+Bugs fixing:
+- firefox problem after buzzing with ctrl+g
+- firefox problem with drag window (still select another text)
+- Custom status in IE 7 doesn't work, so I change the way you set your custom status
+- reduce IE memory leaks
+- increase browser compatibility
+
+What's new in v1.1p:
+
+New Features:
+- message alert in title window
+- active, inactive window
+- User now can change password
+
+Bugs fixing:
+- firefox first key (not able to typed)
+- fixing move window after buzz
+- firefox ajax stability
+- register error (backend process)
+- sorting user not case sensitive
+- Add user are not case sensitive
+- User list icon's alignment is top
+- parse fixing in text chat (like enter, ', ", \)
+- only 1 session allowed in openVchat (eg: open 2 tab for the same page is not allowed)
+- emoteIcons are not case sensitive

@@ -1,0 +1,50 @@
+  td.nw {
+   cursor: nw-resize;
+  }
+
+  td.n {
+   cursor: n-resize;
+  }
+
+  td.ne {
+   cursor: ne-resize;
+  }
+
+  td.w {
+   cursor: w-resize;
+  }
+
+  td.e {
+   cursor: e-resize;
+  }
+
+  td.sw {
+   cursor: sw-resize;
+  }
+
+  td.s {
+   cursor: s-resize;
+  }
+
+  td.se {
+   cursor: se-resize;
+  }
+  table.groupFriend{
+   PADDING-RIGHT: 0px; 
+   PADDING-LEFT: 0px; 
+   FONT-SIZE: 12px; 
+   PADDING-BOTTOM: 0px; 
+   PADDING-TOP: 0px;
+  }
+  a:link{
+  	text-decoration: none;
+  	color:#EF6666;
+  }
+  a:visited{
+  	text-decoration: none;
+  	color:#EF6666;
+  }
+  a:hover{
+  	text-decoration: none;
+  	color: blue;
+  }
